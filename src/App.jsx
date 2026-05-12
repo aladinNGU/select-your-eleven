@@ -23,6 +23,7 @@ function App() {
       (ply) => ply.name !== p.name,
     );
     setSelectedPlayers(remainingSelectedPlayers);
+    setAvailableBalance(availableBalance + p.price);
   };
 
   return (
