@@ -2,133 +2,145 @@
   {
     "id": 1,
     "name": "Virat Kohli",
-    "img": "../src/assets/players/Virat-Kohli.jpg",
+    "img": "../src/assets/players/Virat-Kohli.png",
+    "flag": "https://flagcdn.com/w320/in.png",
     "rating": 4.9,
     "country": "India",
     "price": 15.5,
     "role": "Batsman",
-    "batting-style": "Right-handed",
-    "bowling-style": "Right-arm medium"
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium"
   },
   {
     "id": 2,
     "name": "Babur Azam",
-    "img": "../src/assets/players/Babur-Azam.jpg",
+    "img": "../src/assets/players/Babur-Azam.png",
+    "flag": "https://flagcdn.com/w320/pk.png",
     "rating": 4.8,
     "country": "Pakistan",
     "price": 14.2,
     "role": "Batsman",
-    "batting-style": "Right-handed",
-    "bowling-style": "Right-arm offbreak"
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak"
   },
   {
     "id": 3,
     "name": "Jos Buttler",
-    "img": "../src/assets/players/Jos-Buttler.jpg",
+    "img": "../src/assets/players/Jos-Buttler.png",
+    "flag": "https://flagcdn.com/w320/gb.png",
     "rating": 4.7,
     "country": "England",
     "price": 13.8,
     "role": "Wicket-keeper Batsman",
-    "batting-style": "Right-handed",
-    "bowling-style": null
+    "batting_style": "Right-handed",
+    "bowling_style": null
   },
   {
     "id": 4,
     "name": "Rashid Khan",
-    "img": "../src/assets/players/Rashid-Khan.jpg",
+    "img": "../src/assets/players/Rashid-Khan.png",
+    "flag": "https://flagcdn.com/w320/af.png",
     "rating": 4.9,
     "country": "Afghanistan",
     "price": 12.5,
     "role": "Bowler",
-    "batting-style": "Right-handed",
-    "bowling-style": "Right-arm legbreak"
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm legbreak"
   },
   {
     "id": 5,
     "name": "Ben Stokes",
     "img": "../src/assets/players/Ben-Stokes.webp",
+    "flag": "https://flagcdn.com/w320/gb.png",
     "rating": 4.8,
     "country": "England",
     "price": 16.0,
     "role": "All-rounder",
-    "batting-style": "Left-handed",
-    "bowling-style": "Right-arm fast-medium"
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium"
   },
   {
     "id": 6,
     "name": "Shaheen Afridi",
-    "img": "../src/assets/players/Shaheen-Afridi.jpg",
+    "img": "../src/assets/players/Shaheen-Afridi.png",
+    "flag": "https://flagcdn.com/w320/pk.png",
     "rating": 4.6,
     "country": "Pakistan",
     "price": 11.9,
     "role": "Bowler",
-    "batting-style": "Left-handed",
-    "bowling-style": "Left-arm fast"
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast"
   },
   {
     "id": 7,
     "name": "Rohit Sharma",
     "img": "../src/assets/players/Rohit-Sharma.png",
+    "flag": "https://flagcdn.com/w320/in.png",
     "rating": 4.7,
     "country": "India",
     "price": 14.5,
     "role": "Batsman",
-    "batting-style": "Right-handed",
-    "bowling-style": "Right-arm offbreak"
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak"
   },
   {
     "id": 8,
     "name": "Kane Williamson",
     "img": "../src/assets/players/Kane-Williamson.webp",
+    "flag": "https://flagcdn.com/w320/nz.png",
     "rating": 4.6,
     "country": "New Zealand",
     "price": 13.2,
     "role": "Batsman",
-    "batting-style": "Right-handed",
-    "bowling-style": "Right-arm offbreak"
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak"
   },
   {
     "id": 9,
     "name": "Jasprit Bumrah",
     "img": "../src/assets/players/Jasprit-Bumrah.webp",
+    "flag": "https://flagcdn.com/w320/in.png",
     "rating": 4.8,
     "country": "India",
     "price": 12.8,
     "role": "Bowler",
-    "batting-style": "Right-handed",
-    "bowling-style": "Right-arm fast"
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast"
   },
   {
     "id": 10,
     "name": "Shakib Al Hasan",
-    "img": "../src/assets/players/Shakib-Al-Hasan.jpg",
+    "img": "../src/assets/players/Shakib-Al-Hasan.png",
+    "flag": "https://flagcdn.com/w320/bd.png",
     "rating": 4.7,
     "country": "Bangladesh",
     "price": 13.5,
     "role": "All-rounder",
-    "batting-style": "Left-handed",
-    "bowling-style": "Left-arm orthodox"
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm orthodox"
   },
   {
     "id": 11,
     "name": "David Warner",
-    "img": "../src/assets/players/David-Warner.jpg",
+    "img": "../src/assets/players/David-Warner.png",
+    "flag": "https://flagcdn.com/w320/au.png",
     "rating": 4.5,
     "country": "Australia",
     "price": 13.9,
     "role": "Batsman",
-    "batting-style": "Left-handed",
-    "bowling-style": "Right-arm legbreak"
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm legbreak"
   },
   {
     "id": 12,
     "name": "Trent Boult",
     "img": "../src/assets/players/Trent-Boult.png",
+    "flag": "https://flagcdn.com/w320/nz.png",
     "rating": 4.6,
     "country": "New Zealand",
     "price": 11.5,
     "role": "Bowler",
-    "batting-style": "Right-handed",
-    "bowling-style": "Left-arm fast-medium"
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium"
   }
 ]
